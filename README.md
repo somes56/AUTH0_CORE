@@ -1,0 +1,2 @@
+# AUTH0_CORE
+Auth0 in ASP.NET Core
